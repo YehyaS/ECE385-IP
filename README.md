@@ -113,7 +113,7 @@ often fail.
 - On the left hand side, under `IP INTEGRATOR`, click on `Create Block Design`, set the `Design name` to `processor` then hit `OK`. **IMPORTANT NOTE:** The directory of the project should be `<Local to Project>`. Do not modify this!
 - We can add blocks by pressing the `+` button on the `Diagram` toolbar (or hit `Ctrl+I`) and type `ece385` in the search bar
 - You should be presented with a list of components corresponding to the above image. Each IP's name starts with `ece385_` followed either by the type of gate and its number of inputs or the part number. For example, `ece385_xor_2` simulates a 2-input `XOR` gate, and `ece385_7474` simulates the SN**74**HC**74**N IC chip found in your lab kit!
-- Go ahead and add a 7474 chip by simply clicking on `ece120_7474`
+- Go ahead and add a 7474 chip by simply clicking on `ece385_7474`
 
 ![](./img/7474.png)
 
